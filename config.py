@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'bucchi_games'
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = 'bucchi55'
+Trans_OAUTH             = 'oauth:2pbdx3m522o7yi1z3qcyfjsinqsonh'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
